@@ -26,7 +26,7 @@ showAbout(BuildContext context) {
     ),
     applicationName: 'OSit QRinvent',
     applicationVersion: '0.0.1',
-    applicationLegalese: '©2023 openServices.eus',
+    applicationLegalese: '©2024 openServices.eus',
     children: <Widget>[
       Padding(
           padding: const EdgeInsets.only(top: 15),
