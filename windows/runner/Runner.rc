@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "qrquery" "\0"
+            VALUE "FileDescription", "qrinvent" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "qrquery" "\0"
+            VALUE "InternalName", "qrinvent" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2023 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "qrquery.exe" "\0"
-            VALUE "ProductName", "qrquery" "\0"
+            VALUE "OriginalFilename", "qrinvent.exe" "\0"
+            VALUE "ProductName", "qrinvent" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

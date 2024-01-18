@@ -71,7 +71,7 @@ class ScaffoldPage extends StatelessWidget {
               scale: 7,
             ),
           ),
-          DataPage(),
+          const DataPage(),
         ]),
         //bottomSheet: SizedBox(height: 30),
         bottomNavigationBar: SizedBox(

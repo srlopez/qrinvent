@@ -5,18 +5,18 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "qrquery",
+            "name": "qrinvent",
             "request": "launch",
             "type": "dart"
         },
         {
-            "name": "qrquery (profile mode)",
+            "name": "qrinvent (profile mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "profile"
         },
         {
-            "name": "qrquery (release mode)",
+            "name": "qrinvent (release mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "release"

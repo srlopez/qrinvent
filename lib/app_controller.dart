@@ -4,9 +4,9 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:qr_code_scanner/qr_code_scanner.dart';
-import 'package:qrquery/app_storage.dart';
-import 'package:qrquery/mysql_service.dart';
-import 'package:qrquery/qr_controller.dart';
+import 'package:qrinvent/app_storage.dart';
+import 'package:qrinvent/mysql_service.dart';
+import 'package:qrinvent/qr_controller.dart';
 import 'package:tuple/tuple.dart';
 
 class AppController extends GetxController {

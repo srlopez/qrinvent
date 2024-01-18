@@ -1,4 +1,4 @@
-package com.example.qrquery
+package com.example.qrinvent
 
 import io.flutter.embedding.android.FlutterActivity
 

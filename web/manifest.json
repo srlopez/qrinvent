@@ -1,6 +1,6 @@
 {
-    "name": "qrquery",
-    "short_name": "qrquery",
+    "name": "qrinvent",
+    "short_name": "qrinvent",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

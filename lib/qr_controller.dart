@@ -2,7 +2,7 @@ import 'dart:developer';
 
 import 'package:flutter/material.dart';
 import 'package:qr_code_scanner/qr_code_scanner.dart';
-import 'package:qrquery/app_controller.dart';
+import 'package:qrinvent/app_controller.dart';
 
 import 'colors.dart';
 
